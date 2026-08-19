@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Xadrez Foda</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="menu">
+    <h1>Xadrez Foda</h1>
+    <p>Dois jogadores na mesma tela, turnos alternados, regras oficiais.</p>
+    <button id="play-btn">Jogar</button>
+  </div>
+
+  <div id="game" class="hidden">
+    <div id="status">Vez do Jogador Branco</div>
+    <div id="board"></div>
+    <p id="hint-text">Clique numa peça para ver os movimentos disponíveis</p>
+
+    <div id="banner"></div>
+
+    <div id="winner-overlay" class="hidden">
+      <div id="winner-card">
+        <h2 id="winner-text"></h2>
+        <button id="replay-btn">Jogar novamente</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
