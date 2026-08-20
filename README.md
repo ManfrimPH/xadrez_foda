@@ -29,15 +29,11 @@ O prompt já foi enviado estruturado em 8 requisitos numerados (decomposição d
 
 **Por que essa técnica:** a decomposição garante que cada requisito seja tratado isoladamente, reduzindo o risco de regra esquecida; o raciocínio em cadeia permitiu ao modelo encontrar e corrigir um bug real (verificação de xeque usava a posição original do rei ao mover o rei), o que não aconteceria com uma resposta única direta.
 
-**Evidências:**
-
 <!-- EVIDÊNCIA: print da sessão mostrando o prompt em 8 requisitos e a execução passo a passo (validação de sintaxe, testes, depuração). -->
 
 <!-- EVIDÊNCIA: print dos testes automatizados passando (36 pass). -->
 
 ## 4. Teste de curadoria de contexto (arquivo inteiro vs. trecho)
-
-> Teste validado manualmente. Preencher com as duas versões do prompt e a comparação de tokens.
 
 <!-- EVIDÊNCIA: print da chamada A (arquivo inteiro) com contagem de tokens. -->
 <!-- EVIDÊNCIA: print da chamada B (trecho) com contagem de tokens. -->
