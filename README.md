@@ -74,7 +74,7 @@ Custo estimado simulado com a tabela de preços do DeepSeek V3 (US$ 0,27/M input
 
 ## 6. Dashboard/log da ferramenta
 
-<!-- EVIDÊNCIA: print ou export do dashboard do OpenCode (opencode stats) comprovando os números da tabela acima. -->
+![Dashboard/log da ferramenta](print_log.jpeg)
 
 ## 7. URL publicada
 
