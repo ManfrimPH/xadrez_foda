@@ -44,8 +44,8 @@ O prompt já foi enviado estruturado em 8 requisitos numerados (decomposição d
 
 | Versão do prompt | Tokens de entrada | Tokens de saída | Total |
 |---|---|---|---|
-| Arquivo inteiro | <!-- PREENCHER --> | <!-- PREENCHER --> | <!-- PREENCHER --> |
-| Trecho | <!-- PREENCHER --> | <!-- PREENCHER --> | <!-- PREENCHER --> |
+| Arquivo inteiro | 23.352 | 47.913 | 71.265 |
+| Trecho | 14.924 | 4.336 | 19.260 |
 
 ## 5. Tabela de chamadas da sessão
 
