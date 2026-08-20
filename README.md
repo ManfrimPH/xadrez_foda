@@ -78,9 +78,7 @@ Custo estimado simulado com a tabela de preços do DeepSeek V3 (US$ 0,27/M input
 
 ## 7. URL publicada
 
-<!-- PREENCHER: URL do deploy (Vercel/GitHub Pages) -->
-
-Repositório: https://github.com/ManfrimPH/xadrez_foda
+Repositório: https://xadrez-foda.onrender.com/
 
 ## 8. Integrantes
 
