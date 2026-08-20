@@ -38,10 +38,10 @@ O prompt já foi enviado estruturado em 8 requisitos numerados (decomposição d
 <!-- EVIDÊNCIA: print da chamada A (arquivo inteiro) com contagem de tokens. -->
 <!-- EVIDÊNCIA: print da chamada B (trecho) com contagem de tokens. -->
 
-| Versão do prompt | Tokens de entrada | Tokens de saída | Total |
-|---|---|---|---|
-| Arquivo inteiro | 23.352 | 47.913 | 71.265 |
-| Trecho | 14.924 | 4.336 | 19.260 |
+| Versão do prompt | Tokens de entrada | Tokens de saída | Token de Cache | Total | Total Custo |
+|---|---|---|---|---|---|
+| Arquivo inteiro | 23.352 | 47.913 | 864.256 | 935.521 | US$ 0,119507 |
+| Trecho | 14.924 | 4.336 | 90.368 | 109.628 | US$ 0,015125 |
 
 ## 5. Tabela de chamadas da sessão
 
